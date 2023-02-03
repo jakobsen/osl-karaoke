@@ -1,6 +1,7 @@
 ---
-title: "Im So Excited"
-artist: "The Pointer Sisters"
+title: 'Im So Excited'
+artist: 'The Pointer Sisters'
+slug: 'im-so-excited'
 ---
 
 Tonight's the night we're gonna make it happen
