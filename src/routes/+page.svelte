@@ -5,7 +5,10 @@
   let searchText = '';
   $: filteredSongs = data.songs.filter((song) => {
     if (searchText == '') return true;
-    return song.title.toLocaleLowerCase().includes(searchText.toLocaleLowerCase());
+    return (
+      song.title.toLocaleLowerCase().includes(searchText.toLocaleLowerCase()) ||
+      song.artist.toLocaleLowerCase().includes(searchText.toLocaleLowerCase())
+    );
   });
 </script>
 
