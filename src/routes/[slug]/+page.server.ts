@@ -10,3 +10,5 @@ export const load: PageServerLoad = ({ params }) => {
 	}
 	return { song };
 };
+
+export const prerender = true;
