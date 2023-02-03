@@ -25,6 +25,7 @@
     </li>
   {/each}
 </ul>
+<img src="/img/logo.png" alt="" class="logo" />
 
 <style>
   .heading {
@@ -74,5 +75,11 @@
   a:focus {
     outline: none;
     text-decoration: underline;
+  }
+
+  .logo {
+    display: block;
+    max-width: min(95vw, 400px);
+    margin: 128px auto 32px;
   }
 </style>
