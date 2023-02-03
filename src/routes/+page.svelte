@@ -5,10 +5,10 @@
 </script>
 
 <svelte:head>
-  <title>Vokalisten er syk</title>
+  <title>Vokalisten er syk!</title>
 </svelte:head>
 
-<h1 class="heading">Vokalisten er syk</h1>
+<h1 class="heading">Vokalisten er syk!</h1>
 <ul class="song-list">
   {#each data.songs as song (song.slug)}
     <li class="song-list-item">
@@ -18,6 +18,12 @@
 </ul>
 
 <style>
+  .heading {
+    font-family: 'Unbounded';
+    font-weight: 500;
+    color: var(--primary-color);
+    line-height: 1.2;
+  }
   .song-list {
     list-style: none;
     padding: 0;

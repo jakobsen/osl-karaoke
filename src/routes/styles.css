@@ -1,3 +1,7 @@
+:root {
+  --primary-color: #7648a6;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -25,4 +29,10 @@ h4,
 h5,
 h6 {
   margin: 0;
+}
+
+@font-face {
+  font-family: 'Unbounded';
+  src: url('/fonts/unbounded.ttf') format('truetype-variations');
+  font-weight: 200 900;
 }
