@@ -28,8 +28,7 @@
 
 <style>
   .heading {
-    font-family: 'Unbounded', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-      Oxygen, Ubuntu;
+    font-family: 'Unbounded';
     font-weight: 500;
     color: var(--primary-color);
     line-height: 1.2;
@@ -43,7 +42,7 @@
     padding: 4px;
     width: 100%;
     margin-bottom: 32px;
-    font-family: 'Unbounded', Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Unbounded';
     font-weight: 300;
   }
 

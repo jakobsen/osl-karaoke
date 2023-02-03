@@ -31,8 +31,7 @@
 
   .title,
   .artist {
-    font-family: 'Unbounded', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-      Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Unbounded';
   }
 
   .lyrics {
@@ -41,8 +40,7 @@
 
   .link {
     color: inherit;
-    font-family: 'Unbounded', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-      Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Unbounded';
     color: var(--primary-color);
   }
 
