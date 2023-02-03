@@ -1,6 +1,6 @@
 ---
 title: 'Jump for my Love'
-aritst: 'Pointer Sisters'
+artist: 'Pointer Sisters'
 slug: 'jump-for-my-love'
 ---
 
