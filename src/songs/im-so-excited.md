@@ -37,13 +37,6 @@ Honey, wrap myself around you
 I want to squeeze you, please you
 No, I just can't get enough
 And if you move real slow, I'll let it go
-You might also like
-Did you know that there’s a tunnel under Ocean Blvd
-Lana Del Rey
-Special
-SZA
-Blind
-SZA
 
 I'm so excited, and I just can't hide it
 I'm about to lose control and I think I like it

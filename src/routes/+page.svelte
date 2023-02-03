@@ -4,6 +4,10 @@
 	export let data: PageServerData;
 </script>
 
+<svelte:head>
+	<title>Vokalisten er syk</title>
+</svelte:head>
+
 <ul>
 	{#each data.songs as song}
 		<li>
