@@ -18,14 +18,9 @@
 </ul>
 
 <style>
-  .heading {
-    text-align: center;
-  }
-
   .song-list {
     list-style: none;
-    width: max-content;
-    margin: 0 auto;
+    padding: 0;
   }
 
   .song-list-item {

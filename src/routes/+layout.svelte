@@ -1,5 +1,15 @@
 <script>
-	import './styles.css';
+  import './styles.css';
 </script>
 
-<slot />
+<div class="wrapper">
+  <slot />
+</div>
+
+<style>
+  .wrapper {
+    padding: 32px 16px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+</style>

@@ -9,20 +9,12 @@
   <title>{song.title} | Vokalisten er syk</title>
 </svelte:head>
 
-<div class="wrapper">
-  <h1 class="title">{song.title}</h1>
-  <h2 class="artist">{song.artist}</h2>
-  <div class="lyrics">{@html song.content}</div>
-  <a href="/" class="link">Tilbake til oversikten</a>
-</div>
+<h1 class="title">{song.title}</h1>
+<h2 class="artist">{song.artist}</h2>
+<div class="lyrics">{@html song.content}</div>
+<a href="/" class="link">Tilbake til oversikten</a>
 
 <style>
-  .wrapper {
-    font-size: 1.2rem;
-    line-height: 1.4;
-    padding: 0 8px 32px;
-  }
-
   .title {
     font-weight: 400;
     font-size: 3rem;
@@ -34,6 +26,10 @@
     font-size: 1.5rem;
     margin: 0;
     margin-bottom: 16px;
+  }
+
+  .lyrics {
+    font-size: 1.2rem;
   }
 
   .link {
