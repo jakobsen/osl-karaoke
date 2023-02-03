@@ -6,6 +6,8 @@
 
 <ul>
 	{#each data.songs as song}
-		<li>{song.data.title}</li>
+		<li>
+			<a href="/{song.slug}">{song.title}</a>
+		</li>
 	{/each}
 </ul>
