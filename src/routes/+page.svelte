@@ -1,17 +1,40 @@
 <script lang="ts">
-	import type { PageServerData } from './$types';
+  import type { PageServerData } from './$types';
 
-	export let data: PageServerData;
+  export let data: PageServerData;
 </script>
 
 <svelte:head>
-	<title>Vokalisten er syk</title>
+  <title>Vokalisten er syk</title>
 </svelte:head>
 
-<ul>
-	{#each data.songs as song}
-		<li>
-			<a href="/{song.slug}">{song.title}</a>
-		</li>
-	{/each}
+<h1 class="heading">Vokalisten er syk</h1>
+<ul class="song-list">
+  {#each data.songs as song (song.slug)}
+    <li class="song-list-item">
+      <a href="/{song.slug}">{song.title}</a>
+    </li>
+  {/each}
 </ul>
+
+<style>
+  .heading {
+    text-align: center;
+  }
+
+  .song-list {
+    list-style: none;
+    width: max-content;
+    margin: 0 auto;
+  }
+
+  .song-list-item {
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+  }
+
+  a,
+  a:visited {
+    color: inherit;
+  }
+</style>

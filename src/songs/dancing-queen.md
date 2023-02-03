@@ -28,7 +28,8 @@ You are the dancing queen
 Young and sweet
 Only seventeen
 Dancing queen
-Feel the beat from the tambourine, oh yeah You can dance
+Feel the beat from the tambourine, oh yeah
+You can dance
 You can jive
 Having the time of your life
 Ooh, see that girl
