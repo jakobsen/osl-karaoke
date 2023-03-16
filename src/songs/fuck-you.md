@@ -23,7 +23,7 @@ But the way you play your game ain't fair
 
 I pity the fool that falls in love with you
 (Oh shit, she's a gold digger)
-Well (just thought you should know, nigga)
+Well (just thought you should know)
 Ooh, I've got some news for you
 Yeah, go run and tell your little boyfriend
 
@@ -46,7 +46,7 @@ Tryna keep ya, tryna please ya
 Now I pity the fool
 That falls in love with you
 (Oh shit, she's a golddigger)
-Well (just thought you should know, nigga)
+Well (just thought you should know)
 Ooh, I've got some news for you
 I really hate your ass right now
 
