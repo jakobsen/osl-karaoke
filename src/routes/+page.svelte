@@ -17,6 +17,7 @@
 </svelte:head>
 
 <h1 class="heading">Vokalisten er syk!</h1>
+<h2 class="sub-heading">Live karaoke på Salt<br />Starter 00:30</h2>
 <ul class="song-list">
   <input bind:value={searchText} placeholder="Søk" class="search-box" />
   {#each filteredSongs as song (song.slug)}
@@ -29,6 +30,14 @@
 
 <style>
   .heading {
+    font-family: 'Unbounded';
+    font-weight: 500;
+    color: var(--primary-color);
+    line-height: 1.2;
+    margin-bottom: 1em;
+  }
+
+  .sub-heading {
     font-family: 'Unbounded';
     font-weight: 500;
     color: var(--primary-color);
