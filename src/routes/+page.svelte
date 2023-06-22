@@ -19,7 +19,11 @@
 
 <h1 class="heading">Vokalisten er syk!</h1>
 <ul class="song-list">
-  <input bind:value={searchText} placeholder="Søk" class="search-box" />
+  <input
+    bind:value={searchText}
+    placeholder="Søk etter låttittel eller artist"
+    class="search-box"
+  />
   {#each filteredSongs as song (song.slug)}
     <li class="song-list-item">
       <a href="/{song.slug}">{song.title}</a>
