@@ -41,13 +41,6 @@
     margin-bottom: 1em;
   }
 
-  .sub-heading {
-    font-family: 'Unbounded';
-    font-weight: 500;
-    color: var(--primary-color);
-    line-height: 1.2;
-  }
-
   .search-box {
     font-size: 1.2rem;
     appearance: none;
