@@ -4,6 +4,7 @@
   export let data: PageServerData;
   let searchText = '';
   $: filteredSongs = data.songs.filter((song) => {
+    if (song.hide) return false;
     if (searchText == '') return true;
     return (
       song.title.toLocaleLowerCase().includes(searchText.toLocaleLowerCase()) ||
