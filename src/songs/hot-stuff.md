@@ -1,6 +1,6 @@
 ---
 title: 'Hot Stuff'
-artis: 'Donna Summer'
+artist: 'Donna Summer'
 slug: 'hot-stuff'
 ---
 
