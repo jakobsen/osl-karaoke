@@ -29,14 +29,27 @@
 
 <h2 class="heading">Kontakt og booking</h2>
 <div class="contact-links-wrapper">
-  <a href="https://instagram.com/osloschlagerlag" target="_blank" rel="noopener noreferrer">
+  <a
+    class="social-link"
+    href="https://instagram.com/osloschlagerlag"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img src="/img/instagram.svg" alt="Instagram" class="contact-link-img" />
+    Instagram
   </a>
-  <a href="https://facebook.com/osloschlagerlag" target="_blank" rel="noopener noreferrer">
+  <a
+    class="social-link"
+    href="https://facebook.com/osloschlagerlag"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img src="/img/facebook.svg" alt="Facebook" class="contact-link-img" />
+    Facebook
   </a>
-  <a href="mailto:oslo.schlagerlag@gmail.com">
+  <a class="social-link" href="mailto:oslo.schlagerlag@gmail.com">
     <img src="/img/mail.svg" alt="E-post" class="contact-link-img" />
+    E-post
   </a>
 </div>
 
@@ -72,7 +85,7 @@
   .song-list {
     list-style: none;
     padding: 0;
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
   }
 
   .song-list-item {
@@ -80,11 +93,23 @@
     font-size: 1.2rem;
   }
 
+  .social-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.2rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
   .contact-links-wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
     justify-items: center;
-    height: 4rem;
+    height: 2rem;
     color: var(--primary-color);
   }
 
