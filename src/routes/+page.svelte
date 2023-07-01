@@ -136,7 +136,7 @@
 
   .logo {
     display: block;
-    max-width: min(95vw, 400px);
+    max-width: min(75vw, 400px);
     margin: 128px auto 32px;
   }
 </style>
