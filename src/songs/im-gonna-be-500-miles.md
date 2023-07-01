@@ -1,5 +1,5 @@
 ---
-title: 'I'm Gonna Be (500 Miles)'
+title: "I'm Gonna Be (500 Miles)"
 artist: 'The Proclaimers'
 slug: 'im-gonna-be-500-miles'
 ---
