@@ -18,18 +18,28 @@
 </svelte:head>
 
 <h1 class="heading">Vokalisten er syk!</h1>
+<input bind:value={searchText} placeholder="Søk etter låttittel eller artist" class="search-box" />
 <ul class="song-list">
-  <input
-    bind:value={searchText}
-    placeholder="Søk etter låttittel eller artist"
-    class="search-box"
-  />
   {#each filteredSongs as song (song.slug)}
     <li class="song-list-item">
       <a href="/{song.slug}">{song.title}</a>
     </li>
   {/each}
 </ul>
+
+<h2 class="heading">Kontakt og booking</h2>
+<div class="contact-links-wrapper">
+  <a href="https://instagram.com/osloschlagerlag" target="_blank" rel="noopener noreferrer">
+    <img src="/img/instagram.svg" alt="Instagram" class="contact-link-img" />
+  </a>
+  <a href="https://facebook.com/osloschlagerlag" target="_blank" rel="noopener noreferrer">
+    <img src="/img/facebook.svg" alt="Facebook" class="contact-link-img" />
+  </a>
+  <a href="mailto:oslo.schlagerlag@gmail.com">
+    <img src="/img/mail.svg" alt="E-post" class="contact-link-img" />
+  </a>
+</div>
+
 <img src="/img/logo.png" alt="" class="logo" />
 
 <style>
@@ -62,11 +72,27 @@
   .song-list {
     list-style: none;
     padding: 0;
+    margin-bottom: 2rem;
   }
 
   .song-list-item {
     margin-bottom: 0.5rem;
     font-size: 1.2rem;
+  }
+
+  .contact-links-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    height: 4rem;
+    color: var(--primary-color);
+  }
+
+  .contact-link-img {
+    display: block;
+    color: inherit;
+    height: 100%;
+    max-height: 100%;
   }
 
   a {
