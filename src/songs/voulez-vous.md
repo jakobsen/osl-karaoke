@@ -59,9 +59,6 @@ voulez-vous
 Voulez-vous (ah-ha, ah-ha, ah-ha)
 Voulez-vous (ah-ha, ah-ha, ah-ha)
 
-modulasjon
-
-Voulez-vous (ah-ha)
 Take it now or leave it (ah-ha)
 Now is all we get (ah-ha)
 Nothing promised, no regrets

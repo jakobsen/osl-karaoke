@@ -71,12 +71,9 @@ Forever's gonna start to-
 
 Once upon a time I was falling in love
 Now I'm only falling apart
-There's nothing I can do
-A total eclipse of the heart
-
-Once upon a time there was light in my life
-But now there's only love in the dark
 Nothing I can say
+
 A total eclipse of the heart
 A total eclipse of the heart
 A total eclipse of the heart
+Turn around bright eyes
