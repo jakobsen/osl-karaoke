@@ -1,6 +1,6 @@
 ---
-title: 'Don\'t Stop Me Now'
-artist: Queen
+title: "Don't Stop Me Now"
+artist: 'Queen'
 slug: 'dont-stop-me-now'
 ---
 
