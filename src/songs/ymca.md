@@ -49,28 +49,7 @@ It's fun to stay at the Y.M.C.A.
 You can get yourself clean, you can have a good meal,
 You can do whatever you feel...
 
-Young man, I was once in your shoes.
-I said, I was down and out with the blues
-I felt no man cared if I were alive
-I felt the whole world was so jive...
-
-That's when someone came up to me,
-And said, young man, take a walk up the street
-There's a place there called the Y.M.C.A
-They can start you back on your way
-
 It's fun to stay at the Y.M.C.A
-It's fun to stay at the Y.M.C.A.
-
-They have everything for you men to enjoy,
-You can hang out with all the boys...
-
-Y.M.C.A...you'll find it at the Y.M.C.A.
-
-Young man, young man, there's no need to feel down.
-Young man, young man, get yourself off the ground.
-
-It's fun to stay at the Y.M.C.A.
 It's fun to stay at the Y.M.C.A.
 
 They have everything for you men to enjoy,

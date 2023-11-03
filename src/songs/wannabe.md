@@ -56,12 +56,3 @@ If you wanna be my lover, you have got to give.
 Taking is to easy, but that’s the way it is.
 
 If you wanna be my lover
-you gotta - you gotta - you gotta - you gotta stop stop stop stop
-
-(make it last forever)
-
-slam you body down and wind it all around
-slam you body down and wind it all around (ha ha ha ha!)
-
-Slam your body down and wind it all around
-Slam your body down and zigazig ah

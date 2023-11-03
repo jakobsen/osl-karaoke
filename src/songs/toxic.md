@@ -33,22 +33,12 @@ Can you feel me now?
 With a taste of your lips, I'm on a ride
 You're toxic, I'm slippin' under
 With a taste of a poison paradise
-I'm addicted to you
-Don't you know that you're toxic?
-And I love what you do
-Don't you know that you're toxic?
-Don't you know that you're toxic?
-
-Taste of your lips, I'm on a ride
+I'm addicted to you don't you know that you're toxic
+-taste of your lips, I'm on a ride
 You're toxic, I'm slippin' under
 With a taste of a poison paradise
-I'm addicted to you
-Don't you know that you're toxic?
-With a taste of your lips, I'm on a ride
-You're toxic, I'm slippin' under (toxic)
-With a taste of a poison paradise
-I'm addicted to you
-Don't you know that you're toxic?
+I'm addicted to you don't you know that you're toxic
+
 Intoxicate me now, with your lovin' now
 I think I'm ready now, I think I'm ready now
 Intoxicate me now, with your lovin' now
