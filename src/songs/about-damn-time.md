@@ -49,7 +49,7 @@ Okay (okay), alright
 It's about damn time
 Bitch
 
-_en runde blås_
+_Fire takter_
 
 'Cause, uh, you know that time it is, uh
 I'm comin' out tonight, I'm comin' out tonight (uh-huh)
@@ -65,5 +65,4 @@ It's about damn time
 Oh
 
 Bitch
-Yeah, yeah
 It's about damn time

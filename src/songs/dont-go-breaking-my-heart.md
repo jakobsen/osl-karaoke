@@ -13,10 +13,10 @@ Don't go breaking my heart
 You take the weight off of me
 Honey when you knock on my door
 Ooh, I gave you my key
-Woo hoo
-Nobody knows it When I was down
-I was your clown Woo hoo
-Nobody knows it
+Woo hoo Nobody knows it 
+When I was down
+I was your clown 
+Woo hoo Nobody knows it
 (Nobody knows... it)
 Right from the start
 I gave you my heart
@@ -41,16 +41,16 @@ Woo hoo Nobody knows it
 (Nobody knows... it)
 Right from the start I gave you my heart
 
-Oh-oh
-I give you my heart Don't go breaking my heart
-I won't go breaking your heart Don't go breaking my heart
+Oh-oh I gave you my heart 
+Don't go breaking my heart
+I won't go breaking your heart
+Don't go breaking my heart
 
-_Solo_
+_(Solo)_
 
-Woo hoo
-Nobody knows it
-(Woo hoo) When I was down
-(Woo hoo) I was your clown
+Woo hoo Nobody knows it
+When I was down
+I was your clown
 Right from the start
 I gave you my heart
 Oh-oh I give you my heart
@@ -61,13 +61,13 @@ I won't go breaking your heart
 (Don't go breaking my)
 Don't go breaking my heart
 
-I won't (aaah) go breaking your heart
+I won't go breaking your heart
 Don't go breaking my heart
 (Don't go breaking my)
-I won't (aaah) go breaking your heart
+I won't go breaking your heart
 Don't go breaking my heart
 (Don't go breaking my)
-I won't (aaah) go breaking your heart
+I won't go breaking your heart
 Don't go breaking my heart
 (Don't go breaking my)
-I won't (aaah) go breaking your heart
+I won't go breaking your heart

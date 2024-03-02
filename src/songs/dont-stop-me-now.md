@@ -21,7 +21,7 @@ I'm burnin' through the sky, yeah
 I'm travelling at the speed of light
 I wanna make a supersonic man out of you
 
-(don’t stop me now)
+(Don't stop me now)
 I'm having such a good time
 I'm having a ball
 (Don't stop me now)
@@ -42,8 +42,8 @@ I'm burnin' through the sky, yeah
 I'm travelling at the speed of light
 I wanna make a supersonic woman of you
 
-Hey, hey, hey
-(Don't stop me, don't stop me, ooh, ooh, ooh) I like it
+Don't stop me, don't stop me, don't stop me (Hey, hey, hey)
+Don't stop me, don't stop me, ooh, ooh, ooh (I like it)
 (Don't stop me, don't stop me) Have a good time, good time
 (Don't stop me, don't stop me) Woah
 
@@ -51,7 +51,7 @@ Oh, I'm burnin' through the sky, yeah
 200 degrees, that's why they call me Mister Fahrenheit (hey)
 I'm travelling at the speed of light
 I wanna make a supersonic man out of you (hey, hey)
-(don’t stop me now)
+(don't stop me now)
 I'm having such a good time
 I'm having a ball
 (Don't stop me now)

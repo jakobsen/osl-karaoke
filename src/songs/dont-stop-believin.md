@@ -11,6 +11,8 @@ Just a city boy
 Born and raised in South Detroit
 He took the midnight train going anywhere
 
+_Gitar!_
+
 A singer in a smokey room
 A smell of wine and cheap perfume
 For a smile they can share the night
@@ -47,7 +49,4 @@ Streetlights, people
 Don't stop believin'
 Hold on
 Streetlights, people
-
-Don't stop believin'
-Hold on to that feelin'
-Streetlights, people
+Don't stop!

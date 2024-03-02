@@ -43,7 +43,6 @@ At the copa, she lost her love
 like in Havana
 (Copa, banana)
 
-Music and passion were always in fashion
 Her name is Lola, she was a showgirl
 But that was thirty years ago, when they used to have a show
 Now it's a disco, but not for Lola
@@ -58,7 +57,6 @@ The hottest spot north of Havana (here)
 At the copa (co) Copacabana
 Music and passion were always in fashion
 At the copa don't fall in love
-
 don't fall in love
 
 (Copacabana)

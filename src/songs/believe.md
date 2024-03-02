@@ -44,20 +44,13 @@ Do you believe in life after love?
 I can feel something inside me say
 I really don't think you're strong enough, no
 
-_rett på:_
+_rett på_:
 Well, I know that I'll get through this
 'Cause I know that I am strong
 And I don't need you anymore
 I don't need you anymore
 Oh, I don't need you anymore
 No, I don't need you anymore
-
-Do you believe in life after love?
-I can feel something inside me say
-I really don't think you're strong enough, no
-Do you believe in life after love?
-I can feel something inside me say
-I really don't think you're strong enough, no
 Do you believe in life after love?
 I can feel something inside me say
 I really don't think you're strong enough, no
