@@ -16,8 +16,14 @@
 <svelte:head>
   <title>Vokalisten er syk!</title>
 </svelte:head>
-
 <h1 class="heading">Vokalisten er syk!</h1>
+
+<div class="qr-code-wrapper">
+  {@html data.qrCodeString}
+</div>
+<a href={data.signupLink} class="sign-up">Påmelding</a>
+
+<h2 class="heading">Låter</h2>
 <input bind:value={searchText} placeholder="Søk etter låttittel eller artist" class="search-box" />
 <ul class="song-list">
   {#each filteredSongs as song (song.slug)}
@@ -62,6 +68,25 @@
     color: var(--primary-color);
     line-height: 1.2;
     margin-bottom: 1em;
+  }
+
+  .sign-up {
+    text-decoration: underline;
+    font-size: 1.44rem;
+    margin-top: -1rem;
+    margin-bottom: 3rem;
+    display: block;
+    margin-inline: auto;
+    width: max-content;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .qr-code-wrapper {
+    width: 300px;
+    margin-inline: auto;
   }
 
   .search-box {
