@@ -8,7 +8,7 @@ export const load: PageServerLoad = ({ params }) => {
   if (!song) {
     throw error(404);
   }
-  return { song };
+  return { song, slug };
 };
 
 export const entries: EntryGenerator = () => {

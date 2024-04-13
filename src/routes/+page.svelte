@@ -14,6 +14,15 @@
 </script>
 
 <svelte:head>
+  <meta property="og:url" content="https://osloschlagerlag.no" />
+  <meta property="og:title" content="Vokalisten er syk | Oslo Schlagerlag" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="Live-karaoke med Oslo Schalgerlag på Salt" />
+  <meta property="og:image" content="https://osloschlagerlag.no/vokalisten-er-syk-20240413.jpeg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="2000" />
+  <meta property="og:image:height" content="1050" />
+
   <title>Vokalisten er syk!</title>
 </svelte:head>
 <h1 class="heading">Vokalisten er syk!</h1>
