@@ -1,7 +1,6 @@
 ---
 title: 'Hold the Line'
 artist: 'Toto'
-slug: 'hold-the-line'
 ---
 
 It's not in the way that you hold me

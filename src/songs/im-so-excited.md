@@ -1,7 +1,6 @@
 ---
 title: 'Im So Excited'
 artist: 'The Pointer Sisters'
-slug: 'im-so-excited'
 ---
 
 _(8 takter)_

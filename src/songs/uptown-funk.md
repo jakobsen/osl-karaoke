@@ -1,7 +1,6 @@
 ---
 title: 'Uptown Funk'
 artist: 'Bruno Mars'
-slug: 'uptown-funk'
 ---
 
 Doh

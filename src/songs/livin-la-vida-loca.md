@@ -1,7 +1,6 @@
 ---
 title: "Livin' la Vida Loca"
 artist: 'Ricky Martin'
-slug: livin-la-vida-loca
 ---
 
 She's into superstitions, Black cats and voodoo dolls

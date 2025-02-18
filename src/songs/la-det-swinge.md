@@ -1,7 +1,6 @@
 ---
 title: 'La det swinge'
 artist: 'Bobbysocks'
-slug: 'la-det-swinge'
 ---
 
 Fra en radio strømmer gamle melodier

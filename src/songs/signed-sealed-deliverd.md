@@ -1,7 +1,6 @@
 ---
 title: "Signed, Sealed, Delivered I'm Yours"
 artist: 'Stevie Wonder'
-slug: 'signed-sealed-delivered'
 ---
 
 Like a fool I went and stayed too long

@@ -1,7 +1,6 @@
 ---
 title: '…Baby One More Time'
 artist: 'Britney Spears'
-slug: 'baby-one-more-time'
 ---
 
 Oh, baby, baby

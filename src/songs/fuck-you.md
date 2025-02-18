@@ -1,7 +1,6 @@
 ---
 title: 'Fuck You'
 artist: 'Cee Lo Green'
-slug: 'fuck-you'
 ---
 
 I see you driving 'round town with the girl I love

@@ -1,7 +1,6 @@
 ---
 title: 'Viva la vida'
 artist: 'Coldplay'
-slug: 'viva-la-vida'
 ---
 
 I used to rule the world
@@ -61,4 +60,3 @@ For some reason I can't explain
 I know Saint Peter won't call my name
 Never an honest word
 But that was when I ruled the world
-

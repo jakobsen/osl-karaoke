@@ -1,7 +1,6 @@
 ---
 title: "Don't Go Breaking My Heart (duett)"
 artist: 'Elton John og Kiki Dee'
-slug: dont-go-breaking-my-heart
 ---
 
 Don't go breaking my heart
@@ -13,9 +12,9 @@ Don't go breaking my heart
 You take the weight off of me
 Honey when you knock on my door
 Ooh, I gave you my key
-Woo hoo Nobody knows it 
+Woo hoo Nobody knows it
 When I was down
-I was your clown 
+I was your clown
 Woo hoo Nobody knows it
 (Nobody knows... it)
 Right from the start
@@ -41,7 +40,7 @@ Woo hoo Nobody knows it
 (Nobody knows... it)
 Right from the start I gave you my heart
 
-Oh-oh I gave you my heart 
+Oh-oh I gave you my heart
 Don't go breaking my heart
 I won't go breaking your heart
 Don't go breaking my heart

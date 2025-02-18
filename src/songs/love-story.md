@@ -1,7 +1,6 @@
 ---
 title: 'Love Story'
 artist: 'Taylor Swift'
-slug: 'love-story'
 ---
 
 We were both young when I first saw you

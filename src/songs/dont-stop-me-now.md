@@ -1,7 +1,6 @@
 ---
 title: "Don't Stop Me Now"
 artist: 'Queen'
-slug: 'dont-stop-me-now'
 ---
 
 Tonight I'm gonna have myself a real good time

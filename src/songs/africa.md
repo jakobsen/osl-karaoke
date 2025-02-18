@@ -1,7 +1,6 @@
 ---
 title: 'Africa'
 artist: 'Toto'
-slug: 'africa'
 ---
 
 I hear the drums echoing tonight

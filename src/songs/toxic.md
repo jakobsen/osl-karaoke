@@ -1,7 +1,6 @@
 ---
 title: 'Toxic'
 artist: 'Britney Spears'
-slug: 'toxic'
 ---
 
 Baby, can't you see I'm calling?

@@ -1,7 +1,6 @@
 ---
 title: "Don't Stop Believin'"
 artist: 'Journey'
-slug: 'dont-stop-believin'
 ---
 
 Just a small town girl

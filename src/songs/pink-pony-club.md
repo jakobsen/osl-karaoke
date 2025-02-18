@@ -1,7 +1,6 @@
 ---
 title: Pink Pony Club
 artist: Chappell Roan
-slug: pink-pony-club
 ---
 
 I know you wanted me to stay

@@ -1,4 +1,5 @@
 import fs from 'fs';
+import path from 'path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 
@@ -16,7 +17,7 @@ export function getSongList() {
   const songs = fileNames.map((fileName) => {
     const rawText = fs.readFileSync(`${SONGS_DIR}/${fileName}`).toString();
     const { data } = matter(rawText);
-    return { ...data } as SongData;
+    return { ...data, slug: fileNameToSlug(fileName) } as SongData;
   });
   return { songs };
 }
@@ -30,9 +31,13 @@ export function getSong(slug: string) {
       content: marked.parse(content, { breaks: true }),
       title: data.title as string,
       artist: data.artist as string,
-      slug: data.slug as string
+      slug: fileNameToSlug(fileName)
     };
   });
   const song = songs.find((song) => song.slug == slug);
   return song;
+}
+
+function fileNameToSlug(filename: string) {
+  return path.basename(filename, '.md');
 }

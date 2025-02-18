@@ -1,7 +1,6 @@
 ---
 title: I Want It That Way
 artist: Backstreet Boys
-slug: i-want-it-that-way
 ---
 Yeah
 

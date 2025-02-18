@@ -1,7 +1,6 @@
 ---
 title: 'I Will Survive'
 artist: 'Gloria Gaynor'
-slug: 'i-will-survive'
 ---
 
 At first I was afraid, I was petrified

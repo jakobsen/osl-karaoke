@@ -1,7 +1,6 @@
 ---
 title: 'Y.M.C.A'
 artist: 'Village People'
-slug: 'ymca'
 ---
 
 Young man, there's no need to feel down.

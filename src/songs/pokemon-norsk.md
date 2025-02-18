@@ -1,7 +1,6 @@
 ---
 title: 'Pokémon (norsk)'
 artist: ''
-slug: 'pokemon-norsk'
 ---
 
 Nå skal jeg ut på eventyr
@@ -30,4 +29,3 @@ Du gir meg og jeg gir deg
 Pokemon
 Fanger alle nå, fanger alle nå
 Pokemon!
-

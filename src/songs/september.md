@@ -1,7 +1,6 @@
 ---
 title: 'September'
 artist: 'Earth, Wind and Fire'
-slug: 'september'
 ---
 
 ah-ah-ah x3

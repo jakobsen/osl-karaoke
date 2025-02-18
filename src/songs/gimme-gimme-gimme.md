@@ -1,7 +1,6 @@
 ---
 title: 'Gimme! Gimme! Gimme! (A Man After Midnight)'
 artist: ABBA
-slug: gimme-gimme-gimme
 ---
 
 Half-past twelve

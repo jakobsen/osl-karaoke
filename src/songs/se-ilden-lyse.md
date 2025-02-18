@@ -1,7 +1,6 @@
 ---
 title: 'Se ilden lyse'
 artist: 'Sissel Kyrkjebø'
-slug: 'se-ilden-lyse'
 ---
 
 Gå mot det lyset som flammer i nord
@@ -45,4 +44,3 @@ Se jorden bli en stjerne fager og stor
 Som en snekrystall mot himlens blå
 Svever den drømmen vi lever på
 Svever den drømmen vi lever på
-

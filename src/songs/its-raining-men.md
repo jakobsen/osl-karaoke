@@ -1,7 +1,6 @@
 ---
 title: "It's Raining Men"
 artist: 'The Weather Girls'
-slug: 'its-raining-men'
 ---
 
 Hi, hi we're your weather girls

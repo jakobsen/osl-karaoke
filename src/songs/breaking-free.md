@@ -1,7 +1,6 @@
 ---
 title: Breaking Free
 artist: High School Musical
-slug: breaking-free
 ---
 
 Breaking free

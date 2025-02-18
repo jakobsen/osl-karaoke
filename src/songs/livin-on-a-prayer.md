@@ -1,7 +1,6 @@
 ---
 title: Livin' on a Prayer
 artist: Bon Jovi
-slug: livin-on-a-prayer
 ---
 
 Tommy used to work on the docks

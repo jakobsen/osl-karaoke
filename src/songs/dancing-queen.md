@@ -1,7 +1,6 @@
 ---
 title: 'Dancing Queen'
 artist: 'ABBA'
-slug: 'dancing-queen'
 ---
 
 Ooh

@@ -1,7 +1,6 @@
 ---
 title: 'I Want You Back'
 artist: 'The Jakson 5'
-slug: 'i-want-you-back'
 ---
 
 _Intro_

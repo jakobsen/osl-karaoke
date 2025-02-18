@@ -1,7 +1,6 @@
 ---
 title: 'Surfbrett'
 artist: 'Vazelina Bilopphøggers'
-slug: 'surfbrett'
 hide: true
 ---
 

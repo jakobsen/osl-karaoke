@@ -1,7 +1,6 @@
 ---
 title: 'Grace Kelly'
 artist: 'Mika'
-slug: 'grace-kelly'
 ---
 
 I wanna talk to you

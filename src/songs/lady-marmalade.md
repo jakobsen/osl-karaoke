@@ -1,7 +1,6 @@
 ---
 title: 'Lady Marmalade'
 artist: "Mýa, Lil' Kim, Christina Aguilera, Alecia Beth Moore"
-slug: 'lady-marmalade'
 ---
 
 Where's all my soul sistas?

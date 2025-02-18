@@ -1,7 +1,6 @@
 ---
 title: 'I Wanna Dance With Somebody (Who Loves Me)'
 artist: 'Whitney Houston'
-slug: 'i-wanna-dance-with-somebody'
 ---
 
 Aah

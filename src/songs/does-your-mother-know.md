@@ -1,7 +1,6 @@
 ---
 title: 'Does Your Mother Know'
 artist: 'ABBA'
-slug: 'does-your-mother-know'
 ---
 
 _synth - 4 takter_

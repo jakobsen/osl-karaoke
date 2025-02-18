@@ -1,7 +1,6 @@
 ---
 title: 'Wannabe'
 artist: 'Spice Girls'
-slug: 'wannabe'
 ---
 
 Yeah, I'll tell you what I want, what I really, really want

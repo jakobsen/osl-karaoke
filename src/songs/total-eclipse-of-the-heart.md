@@ -1,7 +1,6 @@
 ---
 title: 'Total Eclipse of the Heart'
 artist: 'Bonnie Tyler'
-slug: 'tota-eclipse-of-the-heart'
 ---
 
 (Turn around)

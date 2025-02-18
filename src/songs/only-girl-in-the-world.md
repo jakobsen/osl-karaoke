@@ -1,7 +1,6 @@
 ---
 title: Only Girl (In the World)
 artist: Rihanna
-slug: only-girl-in-the-world
 ---
 
 La-la-la-la

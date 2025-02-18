@@ -1,7 +1,6 @@
 ---
 title: 'Hey Ya'
 artist: 'OutKast'
-slug: 'hey-ya'
 ---
 
 One, two, three, uh
@@ -54,7 +53,7 @@ Hey! Alright now
 Alright now, fellas (yeah?)
 Now, what cooler than being cool? (Ice cold!)
 I can't hear you
-I say what's, what's cooler than being cool? (Ice cold!) 
+I say what's, what's cooler than being cool? (Ice cold!)
 Alright, alright, alright, alright, alright
 Alright, alright, alright, alright, alright
 Alright, alright, alright, alright
@@ -83,4 +82,3 @@ Hey ya! (Uh oh) Hey ya! (Uh oh)
 Hey ya! (Uh oh) Hey ya! (Uh oh)
 Hey ya! (Uh oh) Hey ya! (Uh oh)
 Hey ya! (Uh oh) Hey ya! (Uh oh)
-

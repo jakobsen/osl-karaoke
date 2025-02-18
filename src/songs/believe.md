@@ -1,7 +1,6 @@
 ---
 title: 'Believe'
 artist: 'Cher'
-slug: 'believe'
 ---
 
 After love, after love

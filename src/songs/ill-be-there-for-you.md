@@ -1,7 +1,6 @@
 ---
 title: "I'll Be There For You (fra Friends)"
 artist: 'The Rembrandts'
-slug: 'ill-be-there-for-you'
 ---
 
 So no one told you life was gonna be this way

@@ -1,7 +1,6 @@
 ---
 title: 'Copacabana (At the Copa)'
 artist: 'Barry Manilow'
-slug: 'copacabana'
 ---
 
 Her name was Lola, she was a showgirl

@@ -1,7 +1,6 @@
 ---
 title: 'Pokémon (engelsk)'
 artist: ''
-slug: 'pokemon-english'
 ---
 
 I wanna be the very best
@@ -60,5 +59,3 @@ Our courage will pull us through
 You teach me and I'll teach you - Pokemon!
 Gotta catch 'em all!
 Gotta catch 'em all! - Pokemon!
-
-

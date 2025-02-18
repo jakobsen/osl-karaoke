@@ -1,7 +1,6 @@
 ---
 title: 'Mamma Mia'
 artist: 'ABBA'
-slug: 'mamma-mia'
 ---
 
 8 takter intro

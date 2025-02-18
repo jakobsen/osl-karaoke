@@ -1,7 +1,6 @@
 ---
 title: Euphoria
 artist: Loreen
-slug: euphoria
 ---
 
 Why, why can't this moment last forevermore?

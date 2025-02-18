@@ -1,7 +1,6 @@
 ---
 title: 'Voulez-Vous'
 artist: 'ABBA'
-slug: 'voulez-vous'
 ---
 
 People everywhere
@@ -32,7 +31,7 @@ Master of the scene
 We've done it all before and now we're back to get some more
 You know what I mean
 
-Voulez-vous (ah-ha)  
+Voulez-vous (ah-ha)
 Take it now or leave it (ah-ha)
 Now is all we get (ah-ha)
 Nothing promised, no regrets

@@ -1,7 +1,6 @@
 ---
 title: Fångad av en stormvind
 artist: Carola
-slug: fangad-av-en-stormvind
 ---
 
 Uh-huh yeah

@@ -1,7 +1,6 @@
 ---
 title: 'Take On Me'
 artist: 'A-ha'
-slug: 'take-on-me'
 ---
 
 We're talking away
@@ -48,4 +47,3 @@ In a day
 (Take me on)
 (Take on me)
 (Take on me)
-
